@@ -45,5 +45,7 @@ Given input parameters regarding the innings of an IPL T20 cricket match, predic
 
 ## Leaderboard
 Achieving a noteworthy position among the top 40 teams in the IIT IPL Hackathon, the team was honored with a substantial cash prize of Rs.5000 for successfully forecasting the total runs a batting team would score by the conclusion of the initial 6 overs in a T20 cricket match.
+
+
 ![Leaderboard](https://github.com/KeerthanaG23/IIT-Hackathon-IPL-Powerplay-Run-Prediction/assets/116378322/5b8f2fad-2591-4edd-a75d-8427ede5cc67)
 
