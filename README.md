@@ -42,11 +42,8 @@ Given input parameters regarding the innings of an IPL T20 cricket match, predic
 1. Clone this repository.
 2. Download the training data from [Google Drive](https://drive.google.com/drive/u/0/folders/1UA8LLt_D1W4dN-XrfUrbFg5PMrbuBzM4) and place it in the appropriate directory.
 
-## Usage
-
-Describe how to use your code. Provide code examples if necessary.
 
 ## Leaderboard
-
+Achieving a noteworthy position among the top 40 teams in the IIT IPL Hackathon, the team was honored with a substantial cash prize of Rs.5000 for successfully forecasting the total runs a batting team would score by the conclusion of the initial 6 overs in a T20 cricket match.
 ![Leaderboard](https://github.com/KeerthanaG23/IIT-Hackathon-IPL-Powerplay-Run-Prediction/assets/116378322/5b8f2fad-2591-4edd-a75d-8427ede5cc67)
 
